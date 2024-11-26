@@ -1,0 +1,39 @@
+.ChatSection{
+    width: 69.8vw;
+    height: 100vh;
+    /* background-color: rgb(184, 248, 248); */
+    border-left: 0.2vw solid black;
+}
+
+.chatRes{
+    width: 90%;
+    height: 75vh;
+    /* background-color: rgb(183, 253, 253); */
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    overflow: auto;
+}
+
+.InputBox{
+    position: absolute;
+    bottom: 30px;
+    margin: 0 0 0 40px;
+    display: flex;
+}
+.InputBox button{
+    margin-left: 10px;
+    background-color: green;
+}
+
+.loading{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+
+.MedicationIcon{
+    margin-top: 10px;
+    margin-right: 20px;
+    color: rgb(190, 0, 0);
+}

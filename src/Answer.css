@@ -1,0 +1,16 @@
+.Answer{
+    /* background-color: rgb(216, 235, 255); */
+    width: 90%;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.AiIcon{
+    vertical-align: middle;
+    margin-left: -30px;
+    color: green;
+}

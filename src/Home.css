@@ -1,0 +1,22 @@
+.home-body{
+    background-color: aquamarine;
+}
+
+.Home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.Intro{
+    color: green;
+    width: 80%;
+}
+
+.btn{
+    padding: 10px;
+}
+
+
+
