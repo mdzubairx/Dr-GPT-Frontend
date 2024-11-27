@@ -1,7 +1,7 @@
 # DR GPT – AI Chatbot
 
-Live website: https://dr-gpt-frontend.onrender.com
-Backend Of Dr-Gpt: https://github.com/mdzubairx/Dr-GPT-Backend
+** Live website: https://dr-gpt-frontend.onrender.com
+** Backend Of Dr-Gpt: https://github.com/mdzubairx/Dr-GPT-Backend
 
 ** DR GPT is an advanced conversational AI chatbot built using the ChatGPT API and React. Designed to deliver seamless and intelligent responses, DR GPT serves as a versatile assistant for users across various domains. **
 
